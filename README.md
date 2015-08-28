@@ -1,2 +1,0 @@
-# aa
-Various ascii art
